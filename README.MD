@@ -1,5 +1,7 @@
 # Fullstack project demo
 
+Simple app written in Python + Django to ingest data from Github API and then serve it using a local database.
+
 ## How to get the project up and running
 
 First and foremost, please provide a valid personal github token in the file env.py located at demo/env.py, otherwise the project will run with the limitations of the anonymous github API.
